@@ -1,0 +1,2 @@
+# Breast-Cancer-Detection-Model
+Breast Cancer Detection is a machine learning based model using SVMs and KNN.  Dataset:-https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data  The model uses KNN (K-Nearest Neighbours ) and SVM (Support Vector Machines) to find out if the cells in breasts are cancerous or non-cancerous and give away a probability.
